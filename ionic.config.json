@@ -1,0 +1,7 @@
+{
+  "name": "SwinLaneDataTable",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

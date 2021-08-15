@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SwinLaneDataTable",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
